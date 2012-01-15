@@ -1,0 +1,15 @@
+{
+	"name": "freshcss",
+	"license": "MIT/X11",
+	"author": "Rob Middleton",
+	"version": "1.1.0",
+	"fullName": "Fresh CSS",
+	"id": "jid0-HgVZ8fGqIjSMePxWNKY5ADXk8c0@jetpack",
+	"description": "This add-on allows you to reload all the CSS stylesheets in a page quickly without reloading the page. You can press the F6 hotkey (or any hotkey you set) or click the button in the add-on bar (or wherever you move it to).",
+	"preferences": [{
+		"name": "hotkey",
+		"title": "Hotkey or key combo ex: 'ctrl-alt-meta-shift-r' default: 'f6'",
+		"type": "string",
+		"value": "f6"
+	}]
+}
